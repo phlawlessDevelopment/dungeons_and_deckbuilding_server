@@ -1,0 +1,36 @@
+Card Set,Card Name,Effect
+Attacks,Hit,5 damage
+Attacks,Grapple,neither can use weapons/items or attack other targets
+Attacks,Disarm,remove enemy's active weapon til end of your next turn
+Attacks,Trip,weapon dmg + knock prone
+Weapons,Battleaxe,7.5 damage
+Weapons,Sword,7.5 damage
+Weapons,Daggers,6.25 damage
+Weapons,Bo Staff,10 damage
+Weapons,Crossbow,7.5 damage and double range
+Spells,Magic Beam,6 damage to 1 enemy
+Spells,Fire,6 damage to (up to) 5 enemies
+Spells,Frost,6 damage to (up to) 3 enemies
+Spells,Lightning,6 damage to all enemies
+Spells,Earthquake,3.5 damage to all enemies & terrain is fucked up
+Spells,Enchant,play any hit cards in opponent's hand against any enemy (inc weapon dmg)
+Movement,Dodge,you can't attack/use items/move or be attacked until end of your next turn
+Movement,Dash,"search deck for up to 2 move cards play them shuffle"
+Movement,Disengage,cant attack/use items or be attacked until end of your next turn
+Movement,Hide,can't be targetted until you move or attack
+Movement,Leap,"5 in movement negate half dmg from terrain when moving"
+Movement,Hover,"5 in movement negate all dmg from terrain when moving"
+Items,Potion,recover half of 10hp
+Items,Full Restore, recover 10hp & remove debuffs
+Items,Alchemist's Fire 5 damage to (up to) 3 enemies
+Items,Poison,temp buff of half of 10 damage for any weapon
+Items,Scroll,"as per spell useable by anyone single use"
+Class Features,Rage,"counts as weapon multiply base damage by 1"
+Class Features,Wildshape,"switch to animal form in battle each is a weapon with unique properties"
+Class Features,Flurry of Blows,"draw cards from deck (keeping each hit) until you draw a movement play them all this turn and shuffle the rest into the deck"
+Class Features,Bardic Inspiration,all party members draw up to 1 cards
+Class Features,Sneak Attack,attacks while hiding do not reveal you and inflict 200% weapon dmg
+Class Features,Eldritch Blast,6 + current invocation effect 
+Channel Divinity,Heal,restore 10hp to 1 ally(s)
+Channel Divinity,Turn Undead,opponent discards any undead enemies in play
+Channel Divinity,Bless,each ally can search deck for 2 hit cards (shuffling deck after)
